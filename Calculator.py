@@ -1,0 +1,6 @@
+num1 = input("Enter a number :")
+num2 = input("Enter another number :")
+results = float(num1) + float(num2)
+print("int se foloseste pentru numere intregi atunci cand vrei sa calculezi folosind input ")
+print("float se foloseste pentru orice tip de numere cand vrei sa calculezi folosind input")
+print(results)
